@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(cyan 0%, navy 50%);
+}
+#user_name{
+    width: 1000px;
+}
